@@ -1,0 +1,8 @@
+.agents/
+.codex/
+.git.broken-backup/
+
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
