@@ -2,6 +2,8 @@
 .codex/
 .git.broken-backup/
 
+presentations/*.pptx
+
 *.tmp
 *.log
 Thumbs.db
